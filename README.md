@@ -16,9 +16,11 @@ El dataset incluye información demográfica y de consumo de aproximadamente 4.0
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb#scrollTo=9fbb1a91))
+O accede directamente desde:
+
+https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb
 
 O:
 
