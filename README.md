@@ -1,6 +1,4 @@
-# telecom-analysis-academic_project
-
-# ConnectaTel Customer Usage Analysis – Sprint 7
+# ConnectaTel Analysis – Sprint 7
 
 Este repositorio contiene el análisis exploratorio y la limpieza de datos realizados para ConnectaTel, una empresa de telecomunicaciones que busca comprender los patrones de uso de sus clientes y optimizar su oferta de planes.
 
