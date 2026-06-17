@@ -18,7 +18,7 @@ El dataset incluye información demográfica y de consumo de aproximadamente 4.0
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb#scrollTo=9fbb1a91))
+[![Open In Colab](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB](https://colab.research.google.com/github/danypd0996-pixel/telecom-analysis-academic_project/blob/main/Project-ConnectaTel.ipynb#scrollTo=9fbb1a91))
 
 O:
 
